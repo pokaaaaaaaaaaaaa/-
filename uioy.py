@@ -79,3 +79,4 @@ entry_b.pack(pady=5)
 
 Button(root, text="Выполнить математические операции", command=math_operations).pack(pady=20)
 root.mainloop()
+#конец
